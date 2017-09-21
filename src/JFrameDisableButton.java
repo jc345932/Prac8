@@ -12,7 +12,7 @@ public class JFrameDisableButton extends JFrame implements ActionListener
 
     Container con = getContentPane();
 
-    JButton button = new JButton("Press Me");
+    JButton button = new JButton("Press");
 
     public JFrameDisableButton()
 
